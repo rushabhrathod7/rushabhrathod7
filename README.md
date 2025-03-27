@@ -40,10 +40,6 @@
   <img src="https://img.shields.io/badge/Sonner-20232A?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushabhrathod7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhrathod7&layout=compact&theme=radical)
-
 ## 🔗 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/rushabhrathod7/">
