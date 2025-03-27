@@ -42,8 +42,8 @@
 
 ## 📈 GitHub Stats  
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushabhrathod7&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushabhrathod7&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhrathod7&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhrathod7&layout=compact&theme=radical" />
 </p>
 
 ## 🔗 Connect with Me  
