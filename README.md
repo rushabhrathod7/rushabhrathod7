@@ -47,7 +47,7 @@
   <a href="https://rushabhrathod.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="rathodrhushabh@gmail.com">
+  <a href="mailto:rathodrhushabh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
