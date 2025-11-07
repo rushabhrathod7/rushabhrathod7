@@ -2,7 +2,7 @@
 
 ## 🚀 MERN Stack Developer | 1.9+ Years of Experience
 
-I'm a passionate **MERN Stack Developer** with over 1.5 years of experience building scalable web applications. I specialize in **MongoDB, Express.js, React.js, and Node.js**, and I love creating clean, efficient, and user-friendly solutions. My goal is to continuously improve my skills and contribute to impactful projects.
+I'm a passionate **MERN Stack Developer** with over 1.9+ years of experience building scalable web applications. I specialize in **MongoDB, Express.js, React.js, and Node.js**, and I love creating clean, efficient, and user-friendly solutions. My goal is to continuously improve my skills and contribute to impactful projects.
 
 ### 🛠️ Tech Stack & Tools
 - **Frontend:** JavaScript(ES6+), React.js, Redux, Tailwind CSS, TypeScript
